@@ -6,6 +6,8 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "scheme": "spotify-project", 
+    "redirectUri": "exp://192.168.1.6:8081/--/spotify-auth-callback",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
